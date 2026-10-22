@@ -1,0 +1,17 @@
+streamlit>=1.36.0
+langchain>=0.2.11
+langchain-community>=0.2.10
+langchain-core>=0.2.24
+langchain-text-splitters>=0.2.2
+langchain-groq>=0.1.9
+langchain-tavily>=0.1.0
+groq>=0.9.0
+langchain-huggingface>=0.0.3
+faiss-cpu>=1.8.0
+pypdf>=4.2.0
+sentence-transformers>=3.0.1
+python-dotenv>=1.0.1
+pytesseract>=0.3.10
+pdf2image>=1.17.0
+tavily-python>=0.3.0
+torchvision
